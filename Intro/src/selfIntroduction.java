@@ -9,7 +9,7 @@ public class selfIntroduction {
 		//Invoking the Browser
 		EdgeDriver driver = new EdgeDriver();
 	      //URL launch
-	      driver.get("https://www.tutorialspoint.com/index.htm");
+	      driver.get("https://www.google.com/");
 	}
 
 }
